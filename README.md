@@ -80,21 +80,22 @@ Neon arcade experiments, prototypes, and the occasional sensor that finally talk
   <img src="https://streak-stats.demolab.com?user=AnkushKr836&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## `05 / CONTRIBUTION ARCADE`
+## `05 / BREAKOUT ARCADE`
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkushKr836/AnkushKr836/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkushKr836/AnkushKr836/output/github-snake.svg" />
-    <img alt="An animated snake traversing my GitHub contribution graph" src="https://raw.githubusercontent.com/AnkushKr836/AnkushKr836/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkushKr836/AnkushKr836/output/breakout-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkushKr836/AnkushKr836/output/breakout-contribution-graph.svg" />
+    <img alt="Breakout game played across my GitHub contribution graph" src="https://raw.githubusercontent.com/AnkushKr836/AnkushKr836/output/breakout-contribution-graph.svg" width="100%" />
   </picture>
 </p>
 
-<p align="center"><sub>THE SNAKE REFRESHES DAILY · INSERT COFFEE. BUILD THINGS.</sub></p>
+<p align="center"><sub>BREAKOUT · DAILY BUILD · INSERT COFFEE. BUILD THINGS.</sub></p>
 
 ---
 
 <p align="center"><sub><a href="https://github.com/AnkushKr836">ANKUSHKR836</a> · BUILT WITH CURIOSITY · CHECKPOINT SAVED</sub></p>
+
 
 
 
