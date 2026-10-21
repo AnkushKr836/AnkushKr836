@@ -1,29 +1,103 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ankush Kumar
-=====================================================================================================================================
-
-Software Engineer
------------------
-
-I build things that live in different worlds — a neon-vector arcade shooter one week, a gig-worker income-loss insurance engine the next, a self-monitoring desktop tool the week after that. Software, to me, is less a single craft than a set of instruments I keep learning to play: Unity for motion and feel, React and vanilla JS for interfaces that feel alive, Python and ESP32 for the systems underneath. I chase the build that teaches me something — a hackathon deadline, a half-finished game engine, a sensor that finally talks back. AI and machine learning are the newest instrument in that set, and I'm folding them steadily into everything else I make.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [ankushrio83006@gmail.com](mailto:ankushrio83006@gmail.com)
-* 💬  I'm secretly Spiderman.
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Ankush Kumar — Software engineer building AI systems, creative code, and game-like experiences." width="100%" />
 </p>
 
-### Socials
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=850&color=48F0D1&center=true&vCenter=true&width=850&lines=I+build+AI+%26+data+systems;I+make+everyday+computing+smarter;I+like+software+with+a+pulse" alt="Rotating intro: AI and data systems, smarter computing, software with a pulse" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/AnkushKr836" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/ankush-kumar-79744a281" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankush-kumar-79744a281/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-121a2a?style=flat-square&logo=linkedin&logoColor=48f0d1" alt="LinkedIn" /></a>
+  <a href="mailto:ankushrio83006@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-121a2a?style=flat-square&logo=gmail&logoColor=b5ff6d" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AnkushKr836&label=PROFILE+SCANS&color=172333&style=flat-square" alt="Profile views" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AnkushKr836&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AnkushKr836&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnkushKr836&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## `01 / PLAYER PROFILE`
+
+I’m **Ankush**, a software engineer in India. I move between AI and data systems, useful desktop tools, and interactive experiments. I like projects where the engineering is real and the interface has a little personality.
+
+> **Current build philosophy:** make it useful, make it feel good, learn something strange along the way.
+
+## `02 / SELECTED BUILDS`
+
+<img align="right" width="190" src="./assets/pixel-girl-backdrop.png" alt="Subtle grayscale pixel-art figure beneath a moon" />
+
+### 01 — [GigShield](https://github.com/AnkushKr836/GigShield)
+
+<sub>INCOME PROTECTION / PARAMETRIC INSURANCE</sub><br />
+Weather, traffic, and civic disruption become signals for income-loss protection built around India’s delivery workforce.
+
+### 02 — [AI Military Intelligence Dashboard](https://github.com/AnkushKr836/AI_Military_Intelligence_Dashboard)
+
+<sub>DATA EXPLORATION / GEO-SPATIAL ANALYSIS</sub><br />
+An interactive look at patterns in the Global Terrorism Database, with mapping, prediction, and forecasting tools.
+
+### 03 — [Personal Device Analytics](https://github.com/AnkushKr836/Personal-Device-Analytics-Platform)
+
+<sub>DESKTOP / CLASSICAL MACHINE LEARNING</sub><br />
+A system monitor that predicts resource use, checks device health, and turns the signals into optimization ideas.
+
+### 04 — [The side quests](https://github.com/AnkushKr836?tab=repositories)
+
+<sub>UNITY / CREATIVE CODE / HARDWARE</sub><br />
+Neon arcade experiments, prototypes, and the occasional sensor that finally talks back.
+
+<br clear="all" />
+## `03 / TOOLKIT`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>LANGUAGES</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&perline=5&theme=dark" alt="Python, C, C++, Java, JavaScript" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>WEB</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&perline=5&theme=dark" alt="React, Next.js, Node.js" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>BACKEND &amp; DATA</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=fastapi,postgres&perline=5&theme=dark" alt="FastAPI, PostgreSQL" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>CREATIVE &amp; HARDWARE</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=unity,blender&perline=5&theme=dark" alt="Unity, Blender" /><br />
+      <sub>ESP32</sub>
+    </td>
+  </tr>
+</table>
+
+## `04 / PLAYER STATS`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnkushKr836&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkushKr836&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnkushKr836&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## `05 / CONTRIBUTION ARCADE`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkushKr836/AnkushKr836/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkushKr836/AnkushKr836/output/github-snake.svg" />
+    <img alt="An animated snake traversing my GitHub contribution graph" src="https://raw.githubusercontent.com/AnkushKr836/AnkushKr836/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center"><sub>THE SNAKE REFRESHES DAILY · INSERT COFFEE. BUILD THINGS.</sub></p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=AnkushKr836&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center"><sub><a href="https://github.com/AnkushKr836">ANKUSHKR836</a> · BUILT WITH CURIOSITY · CHECKPOINT SAVED</sub></p>
+
+
+
+
 
 
